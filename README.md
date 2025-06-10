@@ -1,2 +1,2 @@
 # MachineLearning-CW
-Machine learning project for third year.
+Machine learning project implimenting neural networks, decision trees, random forest, and HMMs.
